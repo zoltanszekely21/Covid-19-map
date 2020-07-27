@@ -2,7 +2,7 @@
 
 Coronavirus Map with integrated tracker API
 
-Uses: https://github.com/NovelCOVID/API    &    https://github.com/colbyfayock/gatsby-starter-leaflet
+Uses: https://corona.lmao.ninja/v2/countries    &    https://github.com/colbyfayock/gatsby-starter-leaflet
 
 
 
