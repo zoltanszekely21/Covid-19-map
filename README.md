@@ -6,7 +6,7 @@ Uses: https://github.com/NovelCOVID/API    &    https://github.com/colbyfayock/g
 
 
 
-## 🧰 What This Includes
+## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Sass](https://sass-lang.com)
@@ -15,7 +15,7 @@ Uses: https://github.com/NovelCOVID/API    &    https://github.com/colbyfayock/g
 * [Leaflet](https://leafletjs.com/)
 * [React Leaflet](https://react-leaflet.js.org)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 * [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
