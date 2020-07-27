@@ -11,7 +11,7 @@ const Footer = () => {
     <footer>
       <Container>
         <p>
-         
+          &copy; { new Date().getFullYear() } 
         </p>
       </Container>
     </footer>
