@@ -29,6 +29,10 @@ gatsby new [directory] https://github.com/zoltanszekely21/Covid-19-map
 
 Navigate to directory and run:
 ```
+npm install
+```
+
+```
 yarn develop
 ```
 
