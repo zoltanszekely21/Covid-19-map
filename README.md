@@ -2,7 +2,7 @@
 
 Coronavirus Map with integrated tracker API
 
-Uses https://github.com/NovelCOVID/API  &  https://github.com/colbyfayock/gatsby-starter-leaflet
+Uses: https://github.com/NovelCOVID/API    &    https://github.com/colbyfayock/gatsby-starter-leaflet
 
 
 
@@ -25,4 +25,14 @@ Uses https://github.com/NovelCOVID/API  &  https://github.com/colbyfayock/gatsby
 Run the following in your favorite terminal:
 ```
 gatsby new [directory] https://github.com/zoltanszekely21/Covid-19-map
+```
+
+Navigate to directory and run:
+```
+yarn develop
+```
+
+You can now view gatsby-starter-leaflet in the browser.
+```
+http://localhost:8000/
 ```
