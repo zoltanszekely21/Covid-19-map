@@ -43,4 +43,5 @@ http://localhost:8000/
 
 * Notice
 ```
-src/data/map-services.js <Mapbox service requires your own API.>
+src/data/map-services.js <Mapbox service requires your own API>
+https://api.mapbox.com/styles/v1/{username}/{style_id}/tiles/{tilesize)/{z}/{x}/{y}@2x?access_token={accessToken}
