@@ -2,11 +2,11 @@
 
 Coronavirus Map with integrated tracker API
 
-Uses: https://github.com/NovelCOVID/API    &    https://github.com/colbyfayock/gatsby-starter-leaflet
+Uses: https://corona.lmao.ninja/v2/countries    &    https://github.com/colbyfayock/gatsby-starter-leaflet
 
 
 
-## 🧰 What This Includes
+## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
 * [Gatsby](https://www.gatsbyjs.org/)
 * [Sass](https://sass-lang.com)
@@ -15,7 +15,7 @@ Uses: https://github.com/NovelCOVID/API    &    https://github.com/colbyfayock/g
 * [Leaflet](https://leafletjs.com/)
 * [React Leaflet](https://react-leaflet.js.org)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 * [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
@@ -40,3 +40,7 @@ You can now view gatsby-starter-leaflet in the browser.
 ```
 http://localhost:8000/
 ```
+
+* Notice
+```
+src/data/map-services.js <Mapbox service requires your own API.>
