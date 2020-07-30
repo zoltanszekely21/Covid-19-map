@@ -40,3 +40,7 @@ You can now view gatsby-starter-leaflet in the browser.
 ```
 http://localhost:8000/
 ```
+
+* Notice
+```
+src/data/map-services.js <Mapbox service requires your own API.>
