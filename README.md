@@ -4,7 +4,9 @@ Coronavirus Map with integrated tracker API
 
 Uses: https://corona.lmao.ninja/v2/countries    &    https://github.com/colbyfayock/gatsby-starter-leaflet
 
-
+<p align="center">
+  <img src="sample.png"/>
+</p>
 
 ## What This Includes
 * [Yarn](https://yarnpkg.com/en/)
